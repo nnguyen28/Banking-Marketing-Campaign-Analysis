@@ -90,4 +90,10 @@ FROM banking
 GROUP BY job
 ORDER BY avg_calls;
 
-    
+/*
+Summary:
+Analyzed direct marketing campaign data for a Portuguese banking institution using MySQL to identify drivers of term-deposit subscriptions. 
+Evaluated customer demographics, financial profiles, campaign frequency, and seasonality to assess conversion performance, revealing an overall subscription rate of ~12%. 
+Identified high-performing client segments (e.g., management roles), optimal outreach thresholds (1–2 calls), and financial risk factors that negatively impact conversion. 
+Delivered data-driven insights to improve campaign efficiency, reduce over-contacting, and prioritize high-yield customer segments.
+*/
